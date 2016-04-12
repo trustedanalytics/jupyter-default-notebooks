@@ -1,3 +1,3 @@
 [submodule "notebooks/examples/pandas-cookbook"]
 	path = notebooks/examples/pandas-cookbook
-	url = https://github.com/trustedanalytics/jupyter-default-notebooks.git
+	url = https://github.com/trustedanalytics/pandas-cookbook.git
